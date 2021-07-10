@@ -8,3 +8,5 @@ What will be predicted score if a student studies for 9.25 hrs/ day?
 TASK -2 : Prediction using Unsupervised ML
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.In the iris dataset the lengths of petals and sepals of differnet flowers were given. Dataset : https://bit.ly/3kXTdox
 
+TASK-6: Create the Decision Tree classifier and visualize it graphically.
+The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly. Dataset : https://bit.ly/3kXTdox
